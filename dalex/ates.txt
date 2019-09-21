@@ -1,0 +1,2808 @@
+C:/Users/lab/Desktop/val_data/1016.jpg 1
+C:/Users/lab/Desktop/val_data/1017.jpg 1
+C:/Users/lab/Desktop/val_data/1018.jpg 1
+C:/Users/lab/Desktop/val_data/1019.jpg 1
+C:/Users/lab/Desktop/val_data/1020.jpg 1
+C:/Users/lab/Desktop/val_data/1021.jpg 1
+C:/Users/lab/Desktop/val_data/1022.jpg 1
+C:/Users/lab/Desktop/val_data/1023.jpg 1
+C:/Users/lab/Desktop/val_data/1024.jpg 1
+C:/Users/lab/Desktop/val_data/1025.jpg 1
+C:/Users/lab/Desktop/val_data/1026.jpg 1
+C:/Users/lab/Desktop/val_data/1027.jpg 1
+C:/Users/lab/Desktop/val_data/1028.jpg 1
+C:/Users/lab/Desktop/val_data/1029.jpg 1
+C:/Users/lab/Desktop/val_data/1030.jpg 1
+C:/Users/lab/Desktop/val_data/1031.jpg 1
+C:/Users/lab/Desktop/val_data/1032.jpg 1
+C:/Users/lab/Desktop/val_data/1033.jpg 1
+C:/Users/lab/Desktop/val_data/1034.jpg 1
+C:/Users/lab/Desktop/val_data/1035.jpg 1
+C:/Users/lab/Desktop/val_data/1036.jpg 1
+C:/Users/lab/Desktop/val_data/1037.jpg 1
+C:/Users/lab/Desktop/val_data/1038.jpg 1
+C:/Users/lab/Desktop/val_data/1039.jpg 1
+C:/Users/lab/Desktop/val_data/1040.jpg 1
+C:/Users/lab/Desktop/val_data/1041.jpg 1
+C:/Users/lab/Desktop/val_data/1042.jpg 1
+C:/Users/lab/Desktop/val_data/1043.jpg 1
+C:/Users/lab/Desktop/val_data/1044.jpg 1
+C:/Users/lab/Desktop/val_data/1045.jpg 1
+C:/Users/lab/Desktop/val_data/1046.jpg 1
+C:/Users/lab/Desktop/val_data/1047.jpg 1
+C:/Users/lab/Desktop/val_data/1048.jpg 1
+C:/Users/lab/Desktop/val_data/1049.jpg 1
+C:/Users/lab/Desktop/val_data/1050.jpg 1
+C:/Users/lab/Desktop/val_data/1051.jpg 1
+C:/Users/lab/Desktop/val_data/1052.jpg 1
+C:/Users/lab/Desktop/val_data/1053.jpg 1
+C:/Users/lab/Desktop/val_data/1054.jpg 1
+C:/Users/lab/Desktop/val_data/1055.jpg 1
+C:/Users/lab/Desktop/val_data/1056.jpg 1
+C:/Users/lab/Desktop/val_data/1057.jpg 1
+C:/Users/lab/Desktop/val_data/1058.jpg 1
+C:/Users/lab/Desktop/val_data/1059.jpg 1
+C:/Users/lab/Desktop/val_data/1060.jpg 1
+C:/Users/lab/Desktop/val_data/1061.jpg 1
+C:/Users/lab/Desktop/val_data/1062.jpg 1
+C:/Users/lab/Desktop/val_data/1063.jpg 1
+C:/Users/lab/Desktop/val_data/1064.jpg 1
+C:/Users/lab/Desktop/val_data/1065.jpg 1
+C:/Users/lab/Desktop/val_data/1066.jpg 1
+C:/Users/lab/Desktop/val_data/1067.jpg 1
+C:/Users/lab/Desktop/val_data/1068.jpg 1
+C:/Users/lab/Desktop/val_data/1069.jpg 1
+C:/Users/lab/Desktop/val_data/1070.jpg 1
+C:/Users/lab/Desktop/val_data/1071.jpg 1
+C:/Users/lab/Desktop/val_data/1072.jpg 1
+C:/Users/lab/Desktop/val_data/1073.jpg 1
+C:/Users/lab/Desktop/val_data/1074.jpg 1
+C:/Users/lab/Desktop/val_data/1075.jpg 1
+C:/Users/lab/Desktop/val_data/1076.jpg 1
+C:/Users/lab/Desktop/val_data/1077.jpg 1
+C:/Users/lab/Desktop/val_data/1078.jpg 1
+C:/Users/lab/Desktop/val_data/1079.jpg 1
+C:/Users/lab/Desktop/val_data/1080.jpg 1
+C:/Users/lab/Desktop/val_data/1081.jpg 1
+C:/Users/lab/Desktop/val_data/1082.jpg 1
+C:/Users/lab/Desktop/val_data/1083.jpg 1
+C:/Users/lab/Desktop/val_data/1084.jpg 1
+C:/Users/lab/Desktop/val_data/1085.jpg 1
+C:/Users/lab/Desktop/val_data/1086.jpg 1
+C:/Users/lab/Desktop/val_data/1087.jpg 1
+C:/Users/lab/Desktop/val_data/1088.jpg 1
+C:/Users/lab/Desktop/val_data/1089.jpg 1
+C:/Users/lab/Desktop/val_data/1090.jpg 1
+C:/Users/lab/Desktop/val_data/1091.jpg 1
+C:/Users/lab/Desktop/val_data/1092.jpg 1
+C:/Users/lab/Desktop/val_data/1093.jpg 1
+C:/Users/lab/Desktop/val_data/1094.jpg 1
+C:/Users/lab/Desktop/val_data/1095.jpg 1
+C:/Users/lab/Desktop/val_data/1096.jpg 1
+C:/Users/lab/Desktop/val_data/1097.jpg 1
+C:/Users/lab/Desktop/val_data/1098.jpg 1
+C:/Users/lab/Desktop/val_data/1099.jpg 1
+C:/Users/lab/Desktop/val_data/1100.jpg 1
+C:/Users/lab/Desktop/val_data/1101.jpg 1
+C:/Users/lab/Desktop/val_data/1102.jpg 1
+C:/Users/lab/Desktop/val_data/1103.jpg 1
+C:/Users/lab/Desktop/val_data/1104.jpg 1
+C:/Users/lab/Desktop/val_data/1105.jpg 1
+C:/Users/lab/Desktop/val_data/1106.jpg 1
+C:/Users/lab/Desktop/val_data/1107.jpg 1
+C:/Users/lab/Desktop/val_data/1108.jpg 1
+C:/Users/lab/Desktop/val_data/1109.jpg 1
+C:/Users/lab/Desktop/val_data/1110.jpg 1
+C:/Users/lab/Desktop/val_data/1111.jpg 1
+C:/Users/lab/Desktop/val_data/1112.jpg 1
+C:/Users/lab/Desktop/val_data/1113.jpg 1
+C:/Users/lab/Desktop/val_data/1114.jpg 1
+C:/Users/lab/Desktop/val_data/1115.jpg 1
+C:/Users/lab/Desktop/val_data/1116.jpg 1
+C:/Users/lab/Desktop/val_data/1117.jpg 1
+C:/Users/lab/Desktop/val_data/1118.jpg 1
+C:/Users/lab/Desktop/val_data/1119.jpg 1
+C:/Users/lab/Desktop/val_data/1120.jpg 1
+C:/Users/lab/Desktop/val_data/1121.jpg 1
+C:/Users/lab/Desktop/val_data/1122.jpg 1
+C:/Users/lab/Desktop/val_data/1123.jpg 1
+C:/Users/lab/Desktop/val_data/1124.jpg 1
+C:/Users/lab/Desktop/val_data/1125.jpg 1
+C:/Users/lab/Desktop/val_data/1126.jpg 1
+C:/Users/lab/Desktop/val_data/1127.jpg 1
+C:/Users/lab/Desktop/val_data/1128.jpg 1
+C:/Users/lab/Desktop/val_data/1129.jpg 1
+C:/Users/lab/Desktop/val_data/1130.jpg 1
+C:/Users/lab/Desktop/val_data/1131.jpg 1
+C:/Users/lab/Desktop/val_data/1132.jpg 1
+C:/Users/lab/Desktop/val_data/1133.jpg 1
+C:/Users/lab/Desktop/val_data/1134.jpg 1
+C:/Users/lab/Desktop/val_data/1135.jpg 1
+C:/Users/lab/Desktop/val_data/1136.jpg 1
+C:/Users/lab/Desktop/val_data/1137.jpg 1
+C:/Users/lab/Desktop/val_data/1138.jpg 1
+C:/Users/lab/Desktop/val_data/1139.jpg 1
+C:/Users/lab/Desktop/val_data/1140.jpg 1
+C:/Users/lab/Desktop/val_data/1141.jpg 1
+C:/Users/lab/Desktop/val_data/1142.jpg 1
+C:/Users/lab/Desktop/val_data/1143.jpg 1
+C:/Users/lab/Desktop/val_data/1144.jpg 1
+C:/Users/lab/Desktop/val_data/1145.jpg 1
+C:/Users/lab/Desktop/val_data/1146.jpg 1
+C:/Users/lab/Desktop/val_data/1147.jpg 1
+C:/Users/lab/Desktop/val_data/1148.jpg 1
+C:/Users/lab/Desktop/val_data/1149.jpg 1
+C:/Users/lab/Desktop/val_data/1150.jpg 1
+C:/Users/lab/Desktop/val_data/1151.jpg 1
+C:/Users/lab/Desktop/val_data/1152.jpg 1
+C:/Users/lab/Desktop/val_data/1153.jpg 1
+C:/Users/lab/Desktop/val_data/1154.jpg 1
+C:/Users/lab/Desktop/val_data/1155.jpg 1
+C:/Users/lab/Desktop/val_data/1156.jpg 1
+C:/Users/lab/Desktop/val_data/1157.jpg 1
+C:/Users/lab/Desktop/val_data/1158.jpg 1
+C:/Users/lab/Desktop/val_data/1159.jpg 1
+C:/Users/lab/Desktop/val_data/1160.jpg 1
+C:/Users/lab/Desktop/val_data/1161.jpg 1
+C:/Users/lab/Desktop/val_data/1162.jpg 1
+C:/Users/lab/Desktop/val_data/1163.jpg 1
+C:/Users/lab/Desktop/val_data/1164.jpg 1
+C:/Users/lab/Desktop/val_data/1165.jpg 1
+C:/Users/lab/Desktop/val_data/1166.jpg 1
+C:/Users/lab/Desktop/val_data/1167.jpg 1
+C:/Users/lab/Desktop/val_data/1168.jpg 1
+C:/Users/lab/Desktop/val_data/1169.jpg 1
+C:/Users/lab/Desktop/val_data/1170.jpg 1
+C:/Users/lab/Desktop/val_data/1171.jpg 1
+C:/Users/lab/Desktop/val_data/1172.jpg 1
+C:/Users/lab/Desktop/val_data/1173.jpg 1
+C:/Users/lab/Desktop/val_data/1174.jpg 1
+C:/Users/lab/Desktop/val_data/1175.jpg 1
+C:/Users/lab/Desktop/val_data/1176.jpg 1
+C:/Users/lab/Desktop/val_data/1177.jpg 1
+C:/Users/lab/Desktop/val_data/1178.jpg 1
+C:/Users/lab/Desktop/val_data/1179.jpg 1
+C:/Users/lab/Desktop/val_data/1180.jpg 1
+C:/Users/lab/Desktop/val_data/1181.jpg 1
+C:/Users/lab/Desktop/val_data/1182.jpg 1
+C:/Users/lab/Desktop/val_data/1183.jpg 1
+C:/Users/lab/Desktop/val_data/1184.jpg 1
+C:/Users/lab/Desktop/val_data/1185.jpg 1
+C:/Users/lab/Desktop/val_data/1186.jpg 1
+C:/Users/lab/Desktop/val_data/1187.jpg 1
+C:/Users/lab/Desktop/val_data/1188.jpg 1
+C:/Users/lab/Desktop/val_data/1189.jpg 1
+C:/Users/lab/Desktop/val_data/1190.jpg 1
+C:/Users/lab/Desktop/val_data/1191.jpg 1
+C:/Users/lab/Desktop/val_data/1192.jpg 1
+C:/Users/lab/Desktop/val_data/1193.jpg 1
+C:/Users/lab/Desktop/val_data/1194.jpg 1
+C:/Users/lab/Desktop/val_data/1195.jpg 1
+C:/Users/lab/Desktop/val_data/1196.jpg 1
+C:/Users/lab/Desktop/val_data/1197.jpg 1
+C:/Users/lab/Desktop/val_data/1198.jpg 1
+C:/Users/lab/Desktop/val_data/1199.jpg 1
+C:/Users/lab/Desktop/val_data/1200.jpg 1
+C:/Users/lab/Desktop/val_data/1201.jpg 1
+C:/Users/lab/Desktop/val_data/1202.jpg 1
+C:/Users/lab/Desktop/val_data/1203.jpg 1
+C:/Users/lab/Desktop/val_data/1204.jpg 1
+C:/Users/lab/Desktop/val_data/1205.jpg 1
+C:/Users/lab/Desktop/val_data/1206.jpg 1
+C:/Users/lab/Desktop/val_data/1207.jpg 1
+C:/Users/lab/Desktop/val_data/1208.jpg 1
+C:/Users/lab/Desktop/val_data/1209.jpg 1
+C:/Users/lab/Desktop/val_data/1210.jpg 1
+C:/Users/lab/Desktop/val_data/1211.jpg 1
+C:/Users/lab/Desktop/val_data/1212.jpg 1
+C:/Users/lab/Desktop/val_data/1213.jpg 1
+C:/Users/lab/Desktop/val_data/1214.jpg 1
+C:/Users/lab/Desktop/val_data/1215.jpg 1
+C:/Users/lab/Desktop/val_data/1216.jpg 1
+C:/Users/lab/Desktop/val_data/1217.jpg 1
+C:/Users/lab/Desktop/val_data/1218.jpg 1
+C:/Users/lab/Desktop/val_data/1219.jpg 1
+C:/Users/lab/Desktop/val_data/1220.jpg 1
+C:/Users/lab/Desktop/val_data/1221.jpg 1
+C:/Users/lab/Desktop/val_data/1222.jpg 1
+C:/Users/lab/Desktop/val_data/1223.jpg 1
+C:/Users/lab/Desktop/val_data/1224.jpg 1
+C:/Users/lab/Desktop/val_data/1225.jpg 1
+C:/Users/lab/Desktop/val_data/1226.jpg 1
+C:/Users/lab/Desktop/val_data/1227.jpg 1
+C:/Users/lab/Desktop/val_data/1228.jpg 1
+C:/Users/lab/Desktop/val_data/1229.jpg 1
+C:/Users/lab/Desktop/val_data/1230.jpg 1
+C:/Users/lab/Desktop/val_data/1231.jpg 1
+C:/Users/lab/Desktop/val_data/1232.jpg 1
+C:/Users/lab/Desktop/val_data/1233.jpg 1
+C:/Users/lab/Desktop/val_data/1234.jpg 1
+C:/Users/lab/Desktop/val_data/1235.jpg 1
+C:/Users/lab/Desktop/val_data/1236.jpg 1
+C:/Users/lab/Desktop/val_data/1237.jpg 1
+C:/Users/lab/Desktop/val_data/1238.jpg 1
+C:/Users/lab/Desktop/val_data/1239.jpg 1
+C:/Users/lab/Desktop/val_data/1240.jpg 1
+C:/Users/lab/Desktop/val_data/1241.jpg 1
+C:/Users/lab/Desktop/val_data/1242.jpg 1
+C:/Users/lab/Desktop/val_data/1243.jpg 1
+C:/Users/lab/Desktop/val_data/1244.jpg 1
+C:/Users/lab/Desktop/val_data/1245.jpg 1
+C:/Users/lab/Desktop/val_data/1246.jpg 1
+C:/Users/lab/Desktop/val_data/1247.jpg 1
+C:/Users/lab/Desktop/val_data/1248.jpg 1
+C:/Users/lab/Desktop/val_data/1249.jpg 1
+C:/Users/lab/Desktop/val_data/1250.jpg 1
+C:/Users/lab/Desktop/val_data/1251.jpg 1
+C:/Users/lab/Desktop/val_data/1252.jpg 1
+C:/Users/lab/Desktop/val_data/1253.jpg 1
+C:/Users/lab/Desktop/val_data/1254.jpg 1
+C:/Users/lab/Desktop/val_data/1255.jpg 1
+C:/Users/lab/Desktop/val_data/1256.jpg 1
+C:/Users/lab/Desktop/val_data/1257.jpg 1
+C:/Users/lab/Desktop/val_data/1258.jpg 1
+C:/Users/lab/Desktop/val_data/1259.jpg 1
+C:/Users/lab/Desktop/val_data/1260.jpg 1
+C:/Users/lab/Desktop/val_data/1261.jpg 1
+C:/Users/lab/Desktop/val_data/1262.jpg 1
+C:/Users/lab/Desktop/val_data/1263.jpg 1
+C:/Users/lab/Desktop/val_data/1264.jpg 1
+C:/Users/lab/Desktop/val_data/1265.jpg 1
+C:/Users/lab/Desktop/val_data/1266.jpg 1
+C:/Users/lab/Desktop/val_data/1267.jpg 1
+C:/Users/lab/Desktop/val_data/1268.jpg 1
+C:/Users/lab/Desktop/val_data/1269.jpg 1
+C:/Users/lab/Desktop/val_data/1270.jpg 1
+C:/Users/lab/Desktop/val_data/1271.jpg 1
+C:/Users/lab/Desktop/val_data/1272.jpg 1
+C:/Users/lab/Desktop/val_data/1273.jpg 1
+C:/Users/lab/Desktop/val_data/1274.jpg 1
+C:/Users/lab/Desktop/val_data/1275.jpg 1
+C:/Users/lab/Desktop/val_data/1276.jpg 1
+C:/Users/lab/Desktop/val_data/1277.jpg 1
+C:/Users/lab/Desktop/val_data/1278.jpg 1
+C:/Users/lab/Desktop/val_data/1279.jpg 1
+C:/Users/lab/Desktop/val_data/1280.jpg 1
+C:/Users/lab/Desktop/val_data/1281.jpg 1
+C:/Users/lab/Desktop/val_data/1282.jpg 1
+C:/Users/lab/Desktop/val_data/1283.jpg 1
+C:/Users/lab/Desktop/val_data/1284.jpg 1
+C:/Users/lab/Desktop/val_data/1285.jpg 1
+C:/Users/lab/Desktop/val_data/1286.jpg 1
+C:/Users/lab/Desktop/val_data/1287.jpg 1
+C:/Users/lab/Desktop/val_data/1288.jpg 1
+C:/Users/lab/Desktop/val_data/1289.jpg 1
+C:/Users/lab/Desktop/val_data/1290.jpg 1
+C:/Users/lab/Desktop/val_data/1291.jpg 1
+C:/Users/lab/Desktop/val_data/1292.jpg 1
+C:/Users/lab/Desktop/val_data/1293.jpg 1
+C:/Users/lab/Desktop/val_data/1294.jpg 1
+C:/Users/lab/Desktop/val_data/1295.jpg 1
+C:/Users/lab/Desktop/val_data/1296.jpg 1
+C:/Users/lab/Desktop/val_data/1297.jpg 1
+C:/Users/lab/Desktop/val_data/1298.jpg 1
+C:/Users/lab/Desktop/val_data/1299.jpg 1
+C:/Users/lab/Desktop/val_data/1300.jpg 1
+C:/Users/lab/Desktop/val_data/1301.jpg 1
+C:/Users/lab/Desktop/val_data/1302.jpg 1
+C:/Users/lab/Desktop/val_data/1303.jpg 1
+C:/Users/lab/Desktop/val_data/1304.jpg 1
+C:/Users/lab/Desktop/val_data/1305.jpg 1
+C:/Users/lab/Desktop/val_data/1306.jpg 1
+C:/Users/lab/Desktop/val_data/1307.jpg 1
+C:/Users/lab/Desktop/val_data/1308.jpg 1
+C:/Users/lab/Desktop/val_data/1309.jpg 1
+C:/Users/lab/Desktop/val_data/1310.jpg 1
+C:/Users/lab/Desktop/val_data/1311.jpg 1
+C:/Users/lab/Desktop/val_data/1312.jpg 1
+C:/Users/lab/Desktop/val_data/1313.jpg 1
+C:/Users/lab/Desktop/val_data/1314.jpg 1
+C:/Users/lab/Desktop/val_data/1315.jpg 1
+C:/Users/lab/Desktop/val_data/1316.jpg 1
+C:/Users/lab/Desktop/val_data/1317.jpg 1
+C:/Users/lab/Desktop/val_data/1318.jpg 1
+C:/Users/lab/Desktop/val_data/1319.jpg 1
+C:/Users/lab/Desktop/val_data/1320.jpg 1
+C:/Users/lab/Desktop/val_data/1321.jpg 1
+C:/Users/lab/Desktop/val_data/1322.jpg 1
+C:/Users/lab/Desktop/val_data/1323.jpg 1
+C:/Users/lab/Desktop/val_data/1324.jpg 1
+C:/Users/lab/Desktop/val_data/1325.jpg 1
+C:/Users/lab/Desktop/val_data/1326.jpg 1
+C:/Users/lab/Desktop/val_data/1327.jpg 1
+C:/Users/lab/Desktop/val_data/1328.jpg 1
+C:/Users/lab/Desktop/val_data/1329.jpg 1
+C:/Users/lab/Desktop/val_data/1330.jpg 1
+C:/Users/lab/Desktop/val_data/1331.jpg 1
+C:/Users/lab/Desktop/val_data/1332.jpg 1
+C:/Users/lab/Desktop/val_data/1333.jpg 1
+C:/Users/lab/Desktop/val_data/1334.jpg 1
+C:/Users/lab/Desktop/val_data/1335.jpg 1
+C:/Users/lab/Desktop/val_data/1336.jpg 1
+C:/Users/lab/Desktop/val_data/1337.jpg 1
+C:/Users/lab/Desktop/val_data/1338.jpg 1
+C:/Users/lab/Desktop/val_data/1339.jpg 1
+C:/Users/lab/Desktop/val_data/1340.jpg 1
+C:/Users/lab/Desktop/val_data/1341.jpg 1
+C:/Users/lab/Desktop/val_data/1342.jpg 1
+C:/Users/lab/Desktop/val_data/1343.jpg 1
+C:/Users/lab/Desktop/val_data/1344.jpg 1
+C:/Users/lab/Desktop/val_data/1345.jpg 1
+C:/Users/lab/Desktop/val_data/1346.jpg 1
+C:/Users/lab/Desktop/val_data/1347.jpg 1
+C:/Users/lab/Desktop/val_data/1348.jpg 1
+C:/Users/lab/Desktop/val_data/1349.jpg 1
+C:/Users/lab/Desktop/val_data/1350.jpg 1
+C:/Users/lab/Desktop/val_data/1351.jpg 1
+C:/Users/lab/Desktop/val_data/1352.jpg 1
+C:/Users/lab/Desktop/val_data/1353.jpg 1
+C:/Users/lab/Desktop/val_data/1354.jpg 1
+C:/Users/lab/Desktop/val_data/1355.jpg 1
+C:/Users/lab/Desktop/val_data/1356.jpg 1
+C:/Users/lab/Desktop/val_data/1357.jpg 1
+C:/Users/lab/Desktop/val_data/1358.jpg 1
+C:/Users/lab/Desktop/val_data/1359.jpg 1
+C:/Users/lab/Desktop/val_data/1360.jpg 1
+C:/Users/lab/Desktop/val_data/1361.jpg 1
+C:/Users/lab/Desktop/val_data/1362.jpg 1
+C:/Users/lab/Desktop/val_data/1363.jpg 1
+C:/Users/lab/Desktop/val_data/1364.jpg 1
+C:/Users/lab/Desktop/val_data/1365.jpg 1
+C:/Users/lab/Desktop/val_data/1366.jpg 1
+C:/Users/lab/Desktop/val_data/1367.jpg 1
+C:/Users/lab/Desktop/val_data/1368.jpg 1
+C:/Users/lab/Desktop/val_data/1369.jpg 1
+C:/Users/lab/Desktop/val_data/1370.jpg 1
+C:/Users/lab/Desktop/val_data/1371.jpg 1
+C:/Users/lab/Desktop/val_data/1372.jpg 1
+C:/Users/lab/Desktop/val_data/1373.jpg 1
+C:/Users/lab/Desktop/val_data/1374.jpg 1
+C:/Users/lab/Desktop/val_data/1375.jpg 1
+C:/Users/lab/Desktop/val_data/1376.jpg 1
+C:/Users/lab/Desktop/val_data/1377.jpg 1
+C:/Users/lab/Desktop/val_data/1378.jpg 1
+C:/Users/lab/Desktop/val_data/1379.jpg 1
+C:/Users/lab/Desktop/val_data/1380.jpg 1
+C:/Users/lab/Desktop/val_data/1381.jpg 1
+C:/Users/lab/Desktop/val_data/1382.jpg 1
+C:/Users/lab/Desktop/val_data/1383.jpg 1
+C:/Users/lab/Desktop/val_data/1384.jpg 1
+C:/Users/lab/Desktop/val_data/1385.jpg 1
+C:/Users/lab/Desktop/val_data/1386.jpg 1
+C:/Users/lab/Desktop/val_data/1387.jpg 1
+C:/Users/lab/Desktop/val_data/1388.jpg 1
+C:/Users/lab/Desktop/val_data/1389.jpg 1
+C:/Users/lab/Desktop/val_data/1390.jpg 1
+C:/Users/lab/Desktop/val_data/1391.jpg 1
+C:/Users/lab/Desktop/val_data/1392.jpg 1
+C:/Users/lab/Desktop/val_data/1393.jpg 1
+C:/Users/lab/Desktop/val_data/1394.jpg 1
+C:/Users/lab/Desktop/val_data/1395.jpg 1
+C:/Users/lab/Desktop/val_data/1396.jpg 1
+C:/Users/lab/Desktop/val_data/1397.jpg 1
+C:/Users/lab/Desktop/val_data/1398.jpg 1
+C:/Users/lab/Desktop/val_data/1399.jpg 1
+C:/Users/lab/Desktop/val_data/1400.jpg 1
+C:/Users/lab/Desktop/val_data/1401.jpg 1
+C:/Users/lab/Desktop/val_data/1402.jpg 1
+C:/Users/lab/Desktop/val_data/1403.jpg 1
+C:/Users/lab/Desktop/val_data/1404.jpg 1
+C:/Users/lab/Desktop/val_data/1405.jpg 1
+C:/Users/lab/Desktop/val_data/1406.jpg 1
+C:/Users/lab/Desktop/val_data/1407.jpg 1
+C:/Users/lab/Desktop/val_data/1408.jpg 1
+C:/Users/lab/Desktop/val_data/1409.jpg 1
+C:/Users/lab/Desktop/val_data/1410.jpg 1
+C:/Users/lab/Desktop/val_data/1411.jpg 1
+C:/Users/lab/Desktop/val_data/1412.jpg 1
+C:/Users/lab/Desktop/val_data/1413.jpg 1
+C:/Users/lab/Desktop/val_data/1414.jpg 1
+C:/Users/lab/Desktop/val_data/1415.jpg 1
+C:/Users/lab/Desktop/val_data/1416.jpg 1
+C:/Users/lab/Desktop/val_data/1417.jpg 1
+C:/Users/lab/Desktop/val_data/1418.jpg 1
+C:/Users/lab/Desktop/val_data/1419.jpg 1
+C:/Users/lab/Desktop/val_data/1420.jpg 1
+C:/Users/lab/Desktop/val_data/1421.jpg 1
+C:/Users/lab/Desktop/val_data/1422.jpg 1
+C:/Users/lab/Desktop/val_data/1423.jpg 1
+C:/Users/lab/Desktop/val_data/1424.jpg 1
+C:/Users/lab/Desktop/val_data/1425.jpg 1
+C:/Users/lab/Desktop/val_data/1426.jpg 1
+C:/Users/lab/Desktop/val_data/1427.jpg 1
+C:/Users/lab/Desktop/val_data/1428.jpg 1
+C:/Users/lab/Desktop/val_data/1429.jpg 1
+C:/Users/lab/Desktop/val_data/1430.jpg 1
+C:/Users/lab/Desktop/val_data/1431.jpg 1
+C:/Users/lab/Desktop/val_data/1432.jpg 1
+C:/Users/lab/Desktop/val_data/1433.jpg 1
+C:/Users/lab/Desktop/val_data/1434.jpg 1
+C:/Users/lab/Desktop/val_data/1435.jpg 1
+C:/Users/lab/Desktop/val_data/1436.jpg 1
+C:/Users/lab/Desktop/val_data/1437.jpg 1
+C:/Users/lab/Desktop/val_data/1438.jpg 1
+C:/Users/lab/Desktop/val_data/1439.jpg 1
+C:/Users/lab/Desktop/val_data/1440.jpg 1
+C:/Users/lab/Desktop/val_data/1441.jpg 1
+C:/Users/lab/Desktop/val_data/1442.jpg 1
+C:/Users/lab/Desktop/val_data/1443.jpg 1
+C:/Users/lab/Desktop/val_data/1444.jpg 1
+C:/Users/lab/Desktop/val_data/1445.jpg 1
+C:/Users/lab/Desktop/val_data/1446.jpg 1
+C:/Users/lab/Desktop/val_data/1447.jpg 1
+C:/Users/lab/Desktop/val_data/1448.jpg 1
+C:/Users/lab/Desktop/val_data/1449.jpg 1
+C:/Users/lab/Desktop/val_data/1450.jpg 1
+C:/Users/lab/Desktop/val_data/1451.jpg 1
+C:/Users/lab/Desktop/val_data/1452.jpg 1
+C:/Users/lab/Desktop/val_data/1453.jpg 1
+C:/Users/lab/Desktop/val_data/1454.jpg 1
+C:/Users/lab/Desktop/val_data/1455.jpg 1
+C:/Users/lab/Desktop/val_data/1456.jpg 1
+C:/Users/lab/Desktop/val_data/1457.jpg 1
+C:/Users/lab/Desktop/val_data/1458.jpg 1
+C:/Users/lab/Desktop/val_data/1459.jpg 1
+C:/Users/lab/Desktop/val_data/1460.jpg 1
+C:/Users/lab/Desktop/val_data/1461.jpg 1
+C:/Users/lab/Desktop/val_data/1462.jpg 1
+C:/Users/lab/Desktop/val_data/1463.jpg 1
+C:/Users/lab/Desktop/val_data/1464.jpg 1
+C:/Users/lab/Desktop/val_data/1465.jpg 1
+C:/Users/lab/Desktop/val_data/1466.jpg 1
+C:/Users/lab/Desktop/val_data/1467.jpg 1
+C:/Users/lab/Desktop/val_data/1468.jpg 1
+C:/Users/lab/Desktop/val_data/1469.jpg 1
+C:/Users/lab/Desktop/val_data/1470.jpg 1
+C:/Users/lab/Desktop/val_data/1471.jpg 1
+C:/Users/lab/Desktop/val_data/1472.jpg 1
+C:/Users/lab/Desktop/val_data/1473.jpg 1
+C:/Users/lab/Desktop/val_data/1474.jpg 1
+C:/Users/lab/Desktop/val_data/1475.jpg 1
+C:/Users/lab/Desktop/val_data/1476.jpg 1
+C:/Users/lab/Desktop/val_data/1477.jpg 1
+C:/Users/lab/Desktop/val_data/1478.jpg 1
+C:/Users/lab/Desktop/val_data/1479.jpg 1
+C:/Users/lab/Desktop/val_data/1480.jpg 1
+C:/Users/lab/Desktop/val_data/1481.jpg 1
+C:/Users/lab/Desktop/val_data/1482.jpg 1
+C:/Users/lab/Desktop/val_data/1483.jpg 1
+C:/Users/lab/Desktop/val_data/1484.jpg 1
+C:/Users/lab/Desktop/val_data/1485.jpg 1
+C:/Users/lab/Desktop/val_data/1486.jpg 1
+C:/Users/lab/Desktop/val_data/1487.jpg 1
+C:/Users/lab/Desktop/val_data/1488.jpg 1
+C:/Users/lab/Desktop/val_data/1489.jpg 1
+C:/Users/lab/Desktop/val_data/1490.jpg 1
+C:/Users/lab/Desktop/val_data/1491.jpg 1
+C:/Users/lab/Desktop/val_data/1492.jpg 1
+C:/Users/lab/Desktop/val_data/1493.jpg 1
+C:/Users/lab/Desktop/val_data/1494.jpg 1
+C:/Users/lab/Desktop/val_data/1495.jpg 1
+C:/Users/lab/Desktop/val_data/1496.jpg 1
+C:/Users/lab/Desktop/val_data/1497.jpg 1
+C:/Users/lab/Desktop/val_data/1498.jpg 1
+C:/Users/lab/Desktop/val_data/1499.jpg 1
+C:/Users/lab/Desktop/val_data/1500.jpg 1
+C:/Users/lab/Desktop/val_data/1501.jpg 1
+C:/Users/lab/Desktop/val_data/1502.jpg 1
+C:/Users/lab/Desktop/val_data/1503.jpg 1
+C:/Users/lab/Desktop/val_data/1504.jpg 1
+C:/Users/lab/Desktop/val_data/1505.jpg 1
+C:/Users/lab/Desktop/val_data/1506.jpg 1
+C:/Users/lab/Desktop/val_data/1507.jpg 1
+C:/Users/lab/Desktop/val_data/1508.jpg 1
+C:/Users/lab/Desktop/val_data/1509.jpg 1
+C:/Users/lab/Desktop/val_data/1510.jpg 1
+C:/Users/lab/Desktop/val_data/1511.jpg 1
+C:/Users/lab/Desktop/val_data/1512.jpg 1
+C:/Users/lab/Desktop/val_data/1513.jpg 1
+C:/Users/lab/Desktop/val_data/1514.jpg 1
+C:/Users/lab/Desktop/val_data/1515.jpg 1
+C:/Users/lab/Desktop/val_data/1516.jpg 1
+C:/Users/lab/Desktop/val_data/1517.jpg 1
+C:/Users/lab/Desktop/val_data/1518.jpg 1
+C:/Users/lab/Desktop/val_data/1519.jpg 1
+C:/Users/lab/Desktop/val_data/1520.jpg 1
+C:/Users/lab/Desktop/val_data/1521.jpg 1
+C:/Users/lab/Desktop/val_data/1522.jpg 1
+C:/Users/lab/Desktop/val_data/1523.jpg 1
+C:/Users/lab/Desktop/val_data/1524.jpg 1
+C:/Users/lab/Desktop/val_data/1525.jpg 1
+C:/Users/lab/Desktop/val_data/1526.jpg 1
+C:/Users/lab/Desktop/val_data/1527.jpg 1
+C:/Users/lab/Desktop/val_data/1528.jpg 1
+C:/Users/lab/Desktop/val_data/1529.jpg 1
+C:/Users/lab/Desktop/val_data/1530.jpg 1
+C:/Users/lab/Desktop/val_data/1531.jpg 1
+C:/Users/lab/Desktop/val_data/1532.jpg 1
+C:/Users/lab/Desktop/val_data/1533.jpg 1
+C:/Users/lab/Desktop/val_data/1534.jpg 1
+C:/Users/lab/Desktop/val_data/1535.jpg 1
+C:/Users/lab/Desktop/val_data/1536.jpg 1
+C:/Users/lab/Desktop/val_data/1537.jpg 1
+C:/Users/lab/Desktop/val_data/1538.jpg 1
+C:/Users/lab/Desktop/val_data/1539.jpg 1
+C:/Users/lab/Desktop/val_data/1540.jpg 1
+C:/Users/lab/Desktop/val_data/1541.jpg 1
+C:/Users/lab/Desktop/val_data/1542.jpg 1
+C:/Users/lab/Desktop/val_data/1543.jpg 1
+C:/Users/lab/Desktop/val_data/1544.jpg 1
+C:/Users/lab/Desktop/val_data/1545.jpg 1
+C:/Users/lab/Desktop/val_data/1546.jpg 1
+C:/Users/lab/Desktop/val_data/1547.jpg 1
+C:/Users/lab/Desktop/val_data/1548.jpg 1
+C:/Users/lab/Desktop/val_data/1549.jpg 1
+C:/Users/lab/Desktop/val_data/1550.jpg 1
+C:/Users/lab/Desktop/val_data/1551.jpg 1
+C:/Users/lab/Desktop/val_data/1552.jpg 1
+C:/Users/lab/Desktop/val_data/1553.jpg 1
+C:/Users/lab/Desktop/val_data/1554.jpg 1
+C:/Users/lab/Desktop/val_data/1555.jpg 1
+C:/Users/lab/Desktop/val_data/1556.jpg 1
+C:/Users/lab/Desktop/val_data/1557.jpg 1
+C:/Users/lab/Desktop/val_data/1558.jpg 1
+C:/Users/lab/Desktop/val_data/1559.jpg 1
+C:/Users/lab/Desktop/val_data/1560.jpg 1
+C:/Users/lab/Desktop/val_data/1561.jpg 1
+C:/Users/lab/Desktop/val_data/1562.jpg 1
+C:/Users/lab/Desktop/val_data/1563.jpg 1
+C:/Users/lab/Desktop/val_data/1564.jpg 1
+C:/Users/lab/Desktop/val_data/1565.jpg 1
+C:/Users/lab/Desktop/val_data/1566.jpg 1
+C:/Users/lab/Desktop/val_data/1567.jpg 1
+C:/Users/lab/Desktop/val_data/1568.jpg 1
+C:/Users/lab/Desktop/val_data/1569.jpg 1
+C:/Users/lab/Desktop/val_data/1570.jpg 1
+C:/Users/lab/Desktop/val_data/1571.jpg 1
+C:/Users/lab/Desktop/val_data/1572.jpg 1
+C:/Users/lab/Desktop/val_data/1573.jpg 1
+C:/Users/lab/Desktop/val_data/1574.jpg 1
+C:/Users/lab/Desktop/val_data/1575.jpg 1
+C:/Users/lab/Desktop/val_data/1576.jpg 1
+C:/Users/lab/Desktop/val_data/1577.jpg 1
+C:/Users/lab/Desktop/val_data/1578.jpg 1
+C:/Users/lab/Desktop/val_data/1579.jpg 1
+C:/Users/lab/Desktop/val_data/1580.jpg 1
+C:/Users/lab/Desktop/val_data/1581.jpg 1
+C:/Users/lab/Desktop/val_data/1582.jpg 1
+C:/Users/lab/Desktop/val_data/1583.jpg 1
+C:/Users/lab/Desktop/val_data/1584.jpg 1
+C:/Users/lab/Desktop/val_data/1585.jpg 1
+C:/Users/lab/Desktop/val_data/1586.jpg 1
+C:/Users/lab/Desktop/val_data/1587.jpg 1
+C:/Users/lab/Desktop/val_data/1588.jpg 1
+C:/Users/lab/Desktop/val_data/1589.jpg 1
+C:/Users/lab/Desktop/val_data/1590.jpg 1
+C:/Users/lab/Desktop/val_data/1591.jpg 1
+C:/Users/lab/Desktop/val_data/1592.jpg 1
+C:/Users/lab/Desktop/val_data/1593.jpg 1
+C:/Users/lab/Desktop/val_data/1594.jpg 1
+C:/Users/lab/Desktop/val_data/1595.jpg 1
+C:/Users/lab/Desktop/val_data/1596.jpg 1
+C:/Users/lab/Desktop/val_data/1597.jpg 1
+C:/Users/lab/Desktop/val_data/1598.jpg 1
+C:/Users/lab/Desktop/val_data/1599.jpg 1
+C:/Users/lab/Desktop/val_data/1600.jpg 1
+C:/Users/lab/Desktop/val_data/1601.jpg 1
+C:/Users/lab/Desktop/val_data/1602.jpg 1
+C:/Users/lab/Desktop/val_data/1603.jpg 1
+C:/Users/lab/Desktop/val_data/1604.jpg 1
+C:/Users/lab/Desktop/val_data/1605.jpg 1
+C:/Users/lab/Desktop/val_data/1606.jpg 1
+C:/Users/lab/Desktop/val_data/1607.jpg 1
+C:/Users/lab/Desktop/val_data/1608.jpg 1
+C:/Users/lab/Desktop/val_data/1609.jpg 1
+C:/Users/lab/Desktop/val_data/1610.jpg 1
+C:/Users/lab/Desktop/val_data/1611.jpg 1
+C:/Users/lab/Desktop/val_data/1612.jpg 1
+C:/Users/lab/Desktop/val_data/1613.jpg 1
+C:/Users/lab/Desktop/val_data/1614.jpg 1
+C:/Users/lab/Desktop/val_data/1615.jpg 1
+C:/Users/lab/Desktop/val_data/1616.jpg 1
+C:/Users/lab/Desktop/val_data/1617.jpg 1
+C:/Users/lab/Desktop/val_data/1618.jpg 1
+C:/Users/lab/Desktop/val_data/1619.jpg 1
+C:/Users/lab/Desktop/val_data/1620.jpg 1
+C:/Users/lab/Desktop/val_data/1621.jpg 1
+C:/Users/lab/Desktop/val_data/1622.jpg 1
+C:/Users/lab/Desktop/val_data/1623.jpg 1
+C:/Users/lab/Desktop/val_data/1624.jpg 1
+C:/Users/lab/Desktop/val_data/1625.jpg 1
+C:/Users/lab/Desktop/val_data/1626.jpg 1
+C:/Users/lab/Desktop/val_data/1627.jpg 1
+C:/Users/lab/Desktop/val_data/1628.jpg 1
+C:/Users/lab/Desktop/val_data/1629.jpg 1
+C:/Users/lab/Desktop/val_data/1630.jpg 1
+C:/Users/lab/Desktop/val_data/1631.jpg 1
+C:/Users/lab/Desktop/val_data/1632.jpg 1
+C:/Users/lab/Desktop/val_data/1633.jpg 1
+C:/Users/lab/Desktop/val_data/1634.jpg 1
+C:/Users/lab/Desktop/val_data/1635.jpg 1
+C:/Users/lab/Desktop/val_data/1636.jpg 1
+C:/Users/lab/Desktop/val_data/1637.jpg 1
+C:/Users/lab/Desktop/val_data/1638.jpg 1
+C:/Users/lab/Desktop/val_data/1639.jpg 1
+C:/Users/lab/Desktop/val_data/1640.jpg 1
+C:/Users/lab/Desktop/val_data/1641.jpg 1
+C:/Users/lab/Desktop/val_data/1642.jpg 1
+C:/Users/lab/Desktop/val_data/1643.jpg 1
+C:/Users/lab/Desktop/val_data/1644.jpg 1
+C:/Users/lab/Desktop/val_data/1645.jpg 1
+C:/Users/lab/Desktop/val_data/1646.jpg 1
+C:/Users/lab/Desktop/val_data/1647.jpg 1
+C:/Users/lab/Desktop/val_data/1648.jpg 1
+C:/Users/lab/Desktop/val_data/1649.jpg 1
+C:/Users/lab/Desktop/val_data/1650.jpg 1
+C:/Users/lab/Desktop/val_data/1651.jpg 1
+C:/Users/lab/Desktop/val_data/1652.jpg 1
+C:/Users/lab/Desktop/val_data/1653.jpg 1
+C:/Users/lab/Desktop/val_data/1654.jpg 1
+C:/Users/lab/Desktop/val_data/1655.jpg 1
+C:/Users/lab/Desktop/val_data/1656.jpg 1
+C:/Users/lab/Desktop/val_data/1657.jpg 1
+C:/Users/lab/Desktop/val_data/1658.jpg 1
+C:/Users/lab/Desktop/val_data/1659.jpg 1
+C:/Users/lab/Desktop/val_data/1660.jpg 1
+C:/Users/lab/Desktop/val_data/1661.jpg 1
+C:/Users/lab/Desktop/val_data/1662.jpg 1
+C:/Users/lab/Desktop/val_data/1663.jpg 1
+C:/Users/lab/Desktop/val_data/1664.jpg 1
+C:/Users/lab/Desktop/val_data/1665.jpg 1
+C:/Users/lab/Desktop/val_data/1666.jpg 1
+C:/Users/lab/Desktop/val_data/1667.jpg 1
+C:/Users/lab/Desktop/val_data/1668.jpg 1
+C:/Users/lab/Desktop/val_data/1669.jpg 1
+C:/Users/lab/Desktop/val_data/1670.jpg 1
+C:/Users/lab/Desktop/val_data/1671.jpg 1
+C:/Users/lab/Desktop/val_data/1672.jpg 1
+C:/Users/lab/Desktop/val_data/1673.jpg 1
+C:/Users/lab/Desktop/val_data/1674.jpg 1
+C:/Users/lab/Desktop/val_data/1675.jpg 1
+C:/Users/lab/Desktop/val_data/1676.jpg 1
+C:/Users/lab/Desktop/val_data/1677.jpg 1
+C:/Users/lab/Desktop/val_data/1678.jpg 1
+C:/Users/lab/Desktop/val_data/1679.jpg 1
+C:/Users/lab/Desktop/val_data/1680.jpg 1
+C:/Users/lab/Desktop/val_data/1681.jpg 1
+C:/Users/lab/Desktop/val_data/1682.jpg 1
+C:/Users/lab/Desktop/val_data/1683.jpg 1
+C:/Users/lab/Desktop/val_data/1684.jpg 1
+C:/Users/lab/Desktop/val_data/1685.jpg 1
+C:/Users/lab/Desktop/val_data/1686.jpg 1
+C:/Users/lab/Desktop/val_data/1687.jpg 1
+C:/Users/lab/Desktop/val_data/1688.jpg 1
+C:/Users/lab/Desktop/val_data/1689.jpg 1
+C:/Users/lab/Desktop/val_data/1690.jpg 1
+C:/Users/lab/Desktop/val_data/1691.jpg 1
+C:/Users/lab/Desktop/val_data/1692.jpg 1
+C:/Users/lab/Desktop/val_data/1693.jpg 1
+C:/Users/lab/Desktop/val_data/1694.jpg 1
+C:/Users/lab/Desktop/val_data/1695.jpg 1
+C:/Users/lab/Desktop/val_data/1696.jpg 1
+C:/Users/lab/Desktop/val_data/1697.jpg 1
+C:/Users/lab/Desktop/val_data/1698.jpg 1
+C:/Users/lab/Desktop/val_data/1699.jpg 1
+C:/Users/lab/Desktop/val_data/1700.jpg 1
+C:/Users/lab/Desktop/val_data/1701.jpg 1
+C:/Users/lab/Desktop/val_data/1702.jpg 1
+C:/Users/lab/Desktop/val_data/1703.jpg 1
+C:/Users/lab/Desktop/val_data/1704.jpg 1
+C:/Users/lab/Desktop/val_data/1705.jpg 1
+C:/Users/lab/Desktop/val_data/1706.jpg 1
+C:/Users/lab/Desktop/val_data/1707.jpg 1
+C:/Users/lab/Desktop/val_data/1708.jpg 1
+C:/Users/lab/Desktop/val_data/1709.jpg 1
+C:/Users/lab/Desktop/val_data/1710.jpg 1
+C:/Users/lab/Desktop/val_data/1711.jpg 1
+C:/Users/lab/Desktop/val_data/1712.jpg 1
+C:/Users/lab/Desktop/val_data/1713.jpg 1
+C:/Users/lab/Desktop/val_data/1714.jpg 1
+C:/Users/lab/Desktop/val_data/1715.jpg 1
+C:/Users/lab/Desktop/val_data/1716.jpg 1
+C:/Users/lab/Desktop/val_data/1717.jpg 1
+C:/Users/lab/Desktop/val_data/1718.jpg 1
+C:/Users/lab/Desktop/val_data/1719.jpg 1
+C:/Users/lab/Desktop/val_data/1720.jpg 1
+C:/Users/lab/Desktop/val_data/1721.jpg 1
+C:/Users/lab/Desktop/val_data/1722.jpg 1
+C:/Users/lab/Desktop/val_data/1723.jpg 1
+C:/Users/lab/Desktop/val_data/1724.jpg 1
+C:/Users/lab/Desktop/val_data/1725.jpg 1
+C:/Users/lab/Desktop/val_data/1726.jpg 1
+C:/Users/lab/Desktop/val_data/1727.jpg 1
+C:/Users/lab/Desktop/val_data/1728.jpg 1
+C:/Users/lab/Desktop/val_data/1729.jpg 1
+C:/Users/lab/Desktop/val_data/1730.jpg 1
+C:/Users/lab/Desktop/val_data/1731.jpg 1
+C:/Users/lab/Desktop/val_data/1732.jpg 1
+C:/Users/lab/Desktop/val_data/1733.jpg 1
+C:/Users/lab/Desktop/val_data/1734.jpg 1
+C:/Users/lab/Desktop/val_data/1735.jpg 1
+C:/Users/lab/Desktop/val_data/1736.jpg 1
+C:/Users/lab/Desktop/val_data/1737.jpg 1
+C:/Users/lab/Desktop/val_data/1738.jpg 1
+C:/Users/lab/Desktop/val_data/1739.jpg 1
+C:/Users/lab/Desktop/val_data/1740.jpg 1
+C:/Users/lab/Desktop/val_data/1741.jpg 1
+C:/Users/lab/Desktop/val_data/1742.jpg 1
+C:/Users/lab/Desktop/val_data/1743.jpg 1
+C:/Users/lab/Desktop/val_data/1744.jpg 1
+C:/Users/lab/Desktop/val_data/1745.jpg 1
+C:/Users/lab/Desktop/val_data/1746.jpg 1
+C:/Users/lab/Desktop/val_data/1747.jpg 1
+C:/Users/lab/Desktop/val_data/1748.jpg 1
+C:/Users/lab/Desktop/val_data/1749.jpg 1
+C:/Users/lab/Desktop/val_data/1750.jpg 1
+C:/Users/lab/Desktop/val_data/1751.jpg 1
+C:/Users/lab/Desktop/val_data/1752.jpg 1
+C:/Users/lab/Desktop/val_data/1753.jpg 1
+C:/Users/lab/Desktop/val_data/1754.jpg 1
+C:/Users/lab/Desktop/val_data/1755.jpg 1
+C:/Users/lab/Desktop/val_data/1756.jpg 1
+C:/Users/lab/Desktop/val_data/1757.jpg 1
+C:/Users/lab/Desktop/val_data/1758.jpg 1
+C:/Users/lab/Desktop/val_data/1759.jpg 1
+C:/Users/lab/Desktop/val_data/1760.jpg 1
+C:/Users/lab/Desktop/val_data/1761.jpg 1
+C:/Users/lab/Desktop/val_data/1762.jpg 1
+C:/Users/lab/Desktop/val_data/1763.jpg 1
+C:/Users/lab/Desktop/val_data/1764.jpg 1
+C:/Users/lab/Desktop/val_data/1765.jpg 1
+C:/Users/lab/Desktop/val_data/1766.jpg 1
+C:/Users/lab/Desktop/val_data/1767.jpg 1
+C:/Users/lab/Desktop/val_data/1768.jpg 1
+C:/Users/lab/Desktop/val_data/1769.jpg 1
+C:/Users/lab/Desktop/val_data/1770.jpg 1
+C:/Users/lab/Desktop/val_data/1771.jpg 1
+C:/Users/lab/Desktop/val_data/1772.jpg 1
+C:/Users/lab/Desktop/val_data/1773.jpg 1
+C:/Users/lab/Desktop/val_data/1774.jpg 1
+C:/Users/lab/Desktop/val_data/1775.jpg 1
+C:/Users/lab/Desktop/val_data/1776.jpg 1
+C:/Users/lab/Desktop/val_data/1777.jpg 1
+C:/Users/lab/Desktop/val_data/1778.jpg 1
+C:/Users/lab/Desktop/val_data/1779.jpg 1
+C:/Users/lab/Desktop/val_data/1780.jpg 1
+C:/Users/lab/Desktop/val_data/1781.jpg 1
+C:/Users/lab/Desktop/val_data/1782.jpg 1
+C:/Users/lab/Desktop/val_data/1783.jpg 1
+C:/Users/lab/Desktop/val_data/1784.jpg 1
+C:/Users/lab/Desktop/val_data/1785.jpg 1
+C:/Users/lab/Desktop/val_data/1786.jpg 1
+C:/Users/lab/Desktop/val_data/1787.jpg 1
+C:/Users/lab/Desktop/val_data/1788.jpg 1
+C:/Users/lab/Desktop/val_data/1789.jpg 1
+C:/Users/lab/Desktop/val_data/1790.jpg 1
+C:/Users/lab/Desktop/val_data/1791.jpg 1
+C:/Users/lab/Desktop/val_data/1792.jpg 1
+C:/Users/lab/Desktop/val_data/1793.jpg 1
+C:/Users/lab/Desktop/val_data/1794.jpg 1
+C:/Users/lab/Desktop/val_data/1795.jpg 1
+C:/Users/lab/Desktop/val_data/1796.jpg 1
+C:/Users/lab/Desktop/val_data/1797.jpg 1
+C:/Users/lab/Desktop/val_data/1798.jpg 1
+C:/Users/lab/Desktop/val_data/1799.jpg 1
+C:/Users/lab/Desktop/val_data/1800.jpg 1
+C:/Users/lab/Desktop/val_data/1801.jpg 1
+C:/Users/lab/Desktop/val_data/1802.jpg 1
+C:/Users/lab/Desktop/val_data/1803.jpg 1
+C:/Users/lab/Desktop/val_data/1804.jpg 1
+C:/Users/lab/Desktop/val_data/1805.jpg 1
+C:/Users/lab/Desktop/val_data/1806.jpg 1
+C:/Users/lab/Desktop/val_data/1807.jpg 1
+C:/Users/lab/Desktop/val_data/1808.jpg 1
+C:/Users/lab/Desktop/val_data/1809.jpg 1
+C:/Users/lab/Desktop/val_data/1810.jpg 1
+C:/Users/lab/Desktop/val_data/1811.jpg 1
+C:/Users/lab/Desktop/val_data/1812.jpg 1
+C:/Users/lab/Desktop/val_data/1813.jpg 1
+C:/Users/lab/Desktop/val_data/1814.jpg 1
+C:/Users/lab/Desktop/val_data/1815.jpg 1
+C:/Users/lab/Desktop/val_data/1816.jpg 1
+C:/Users/lab/Desktop/val_data/1817.jpg 1
+C:/Users/lab/Desktop/val_data/1818.jpg 1
+C:/Users/lab/Desktop/val_data/1819.jpg 1
+C:/Users/lab/Desktop/val_data/1820.jpg 1
+C:/Users/lab/Desktop/val_data/1821.jpg 1
+C:/Users/lab/Desktop/val_data/1822.jpg 1
+C:/Users/lab/Desktop/val_data/1823.jpg 1
+C:/Users/lab/Desktop/val_data/1824.jpg 1
+C:/Users/lab/Desktop/val_data/1825.jpg 1
+C:/Users/lab/Desktop/val_data/1826.jpg 1
+C:/Users/lab/Desktop/val_data/1827.jpg 1
+C:/Users/lab/Desktop/val_data/1828.jpg 1
+C:/Users/lab/Desktop/val_data/1829.jpg 1
+C:/Users/lab/Desktop/val_data/1830.jpg 1
+C:/Users/lab/Desktop/val_data/1831.jpg 1
+C:/Users/lab/Desktop/val_data/1832.jpg 1
+C:/Users/lab/Desktop/val_data/1833.jpg 1
+C:/Users/lab/Desktop/val_data/1834.jpg 1
+C:/Users/lab/Desktop/val_data/1835.jpg 1
+C:/Users/lab/Desktop/val_data/1836.jpg 1
+C:/Users/lab/Desktop/val_data/1837.jpg 1
+C:/Users/lab/Desktop/val_data/1838.jpg 1
+C:/Users/lab/Desktop/val_data/1839.jpg 1
+C:/Users/lab/Desktop/val_data/1840.jpg 1
+C:/Users/lab/Desktop/val_data/1841.jpg 1
+C:/Users/lab/Desktop/val_data/1842.jpg 1
+C:/Users/lab/Desktop/val_data/1843.jpg 1
+C:/Users/lab/Desktop/val_data/1844.jpg 1
+C:/Users/lab/Desktop/val_data/1845.jpg 1
+C:/Users/lab/Desktop/val_data/1846.jpg 1
+C:/Users/lab/Desktop/val_data/1847.jpg 1
+C:/Users/lab/Desktop/val_data/1848.jpg 1
+C:/Users/lab/Desktop/val_data/1849.jpg 1
+C:/Users/lab/Desktop/val_data/1850.jpg 1
+C:/Users/lab/Desktop/val_data/1851.jpg 1
+C:/Users/lab/Desktop/val_data/1852.jpg 1
+C:/Users/lab/Desktop/val_data/1853.jpg 1
+C:/Users/lab/Desktop/val_data/1854.jpg 1
+C:/Users/lab/Desktop/val_data/1855.jpg 1
+C:/Users/lab/Desktop/val_data/1856.jpg 1
+C:/Users/lab/Desktop/val_data/1857.jpg 1
+C:/Users/lab/Desktop/val_data/1858.jpg 1
+C:/Users/lab/Desktop/val_data/1859.jpg 1
+C:/Users/lab/Desktop/val_data/1860.jpg 1
+C:/Users/lab/Desktop/val_data/1861.jpg 1
+C:/Users/lab/Desktop/val_data/1862.jpg 1
+C:/Users/lab/Desktop/val_data/1863.jpg 1
+C:/Users/lab/Desktop/val_data/1864.jpg 1
+C:/Users/lab/Desktop/val_data/1865.jpg 1
+C:/Users/lab/Desktop/val_data/1866.jpg 1
+C:/Users/lab/Desktop/val_data/1867.jpg 1
+C:/Users/lab/Desktop/val_data/1868.jpg 1
+C:/Users/lab/Desktop/val_data/1869.jpg 1
+C:/Users/lab/Desktop/val_data/1870.jpg 1
+C:/Users/lab/Desktop/val_data/1871.jpg 1
+C:/Users/lab/Desktop/val_data/1872.jpg 1
+C:/Users/lab/Desktop/val_data/1873.jpg 1
+C:/Users/lab/Desktop/val_data/1874.jpg 1
+C:/Users/lab/Desktop/val_data/1875.jpg 1
+C:/Users/lab/Desktop/val_data/1876.jpg 1
+C:/Users/lab/Desktop/val_data/1877.jpg 1
+C:/Users/lab/Desktop/val_data/1878.jpg 1
+C:/Users/lab/Desktop/val_data/1879.jpg 1
+C:/Users/lab/Desktop/val_data/1880.jpg 1
+C:/Users/lab/Desktop/val_data/1881.jpg 1
+C:/Users/lab/Desktop/val_data/1882.jpg 1
+C:/Users/lab/Desktop/val_data/1883.jpg 1
+C:/Users/lab/Desktop/val_data/1884.jpg 1
+C:/Users/lab/Desktop/val_data/1885.jpg 1
+C:/Users/lab/Desktop/val_data/1886.jpg 1
+C:/Users/lab/Desktop/val_data/1887.jpg 1
+C:/Users/lab/Desktop/val_data/1888.jpg 1
+C:/Users/lab/Desktop/val_data/1889.jpg 1
+C:/Users/lab/Desktop/val_data/1890.jpg 1
+C:/Users/lab/Desktop/val_data/1891.jpg 1
+C:/Users/lab/Desktop/val_data/1892.jpg 1
+C:/Users/lab/Desktop/val_data/1893.jpg 1
+C:/Users/lab/Desktop/val_data/1894.jpg 1
+C:/Users/lab/Desktop/val_data/1895.jpg 1
+C:/Users/lab/Desktop/val_data/1896.jpg 1
+C:/Users/lab/Desktop/val_data/1897.jpg 1
+C:/Users/lab/Desktop/val_data/1898.jpg 1
+C:/Users/lab/Desktop/val_data/1899.jpg 1
+C:/Users/lab/Desktop/val_data/1900.jpg 1
+C:/Users/lab/Desktop/val_data/1901.jpg 1
+C:/Users/lab/Desktop/val_data/1902.jpg 1
+C:/Users/lab/Desktop/val_data/1903.jpg 1
+C:/Users/lab/Desktop/val_data/1904.jpg 1
+C:/Users/lab/Desktop/val_data/1905.jpg 1
+C:/Users/lab/Desktop/val_data/1906.jpg 1
+C:/Users/lab/Desktop/val_data/1907.jpg 1
+C:/Users/lab/Desktop/val_data/1908.jpg 1
+C:/Users/lab/Desktop/val_data/1909.jpg 1
+C:/Users/lab/Desktop/val_data/1910.jpg 1
+C:/Users/lab/Desktop/val_data/1911.jpg 1
+C:/Users/lab/Desktop/val_data/1912.jpg 1
+C:/Users/lab/Desktop/val_data/1913.jpg 1
+C:/Users/lab/Desktop/val_data/1914.jpg 1
+C:/Users/lab/Desktop/val_data/1915.jpg 1
+C:/Users/lab/Desktop/val_data/1916.jpg 1
+C:/Users/lab/Desktop/val_data/1917.jpg 1
+C:/Users/lab/Desktop/val_data/1918.jpg 1
+C:/Users/lab/Desktop/val_data/1919.jpg 1
+C:/Users/lab/Desktop/val_data/1920.jpg 1
+C:/Users/lab/Desktop/val_data/1921.jpg 1
+C:/Users/lab/Desktop/val_data/1922.jpg 1
+C:/Users/lab/Desktop/val_data/1923.jpg 1
+C:/Users/lab/Desktop/val_data/1924.jpg 1
+C:/Users/lab/Desktop/val_data/1925.jpg 1
+C:/Users/lab/Desktop/val_data/1926.jpg 1
+C:/Users/lab/Desktop/val_data/1927.jpg 1
+C:/Users/lab/Desktop/val_data/1928.jpg 1
+C:/Users/lab/Desktop/val_data/1929.jpg 1
+C:/Users/lab/Desktop/val_data/1930.jpg 1
+C:/Users/lab/Desktop/val_data/1931.jpg 1
+C:/Users/lab/Desktop/val_data/1932.jpg 1
+C:/Users/lab/Desktop/val_data/1933.jpg 1
+C:/Users/lab/Desktop/val_data/1934.jpg 1
+C:/Users/lab/Desktop/val_data/1935.jpg 1
+C:/Users/lab/Desktop/val_data/1936.jpg 1
+C:/Users/lab/Desktop/val_data/1937.jpg 1
+C:/Users/lab/Desktop/val_data/1938.jpg 1
+C:/Users/lab/Desktop/val_data/1939.jpg 1
+C:/Users/lab/Desktop/val_data/1940.jpg 1
+C:/Users/lab/Desktop/val_data/1941.jpg 1
+C:/Users/lab/Desktop/val_data/1942.jpg 1
+C:/Users/lab/Desktop/val_data/1943.jpg 1
+C:/Users/lab/Desktop/val_data/1944.jpg 1
+C:/Users/lab/Desktop/val_data/1945.jpg 1
+C:/Users/lab/Desktop/val_data/1946.jpg 1
+C:/Users/lab/Desktop/val_data/1947.jpg 1
+C:/Users/lab/Desktop/val_data/1948.jpg 1
+C:/Users/lab/Desktop/val_data/1949.jpg 1
+C:/Users/lab/Desktop/val_data/1950.jpg 1
+C:/Users/lab/Desktop/val_data/1951.jpg 1
+C:/Users/lab/Desktop/val_data/1952.jpg 1
+C:/Users/lab/Desktop/val_data/1953.jpg 1
+C:/Users/lab/Desktop/val_data/1954.jpg 1
+C:/Users/lab/Desktop/val_data/1955.jpg 1
+C:/Users/lab/Desktop/val_data/1956.jpg 1
+C:/Users/lab/Desktop/val_data/1957.jpg 1
+C:/Users/lab/Desktop/val_data/1958.jpg 1
+C:/Users/lab/Desktop/val_data/1959.jpg 1
+C:/Users/lab/Desktop/val_data/1960.jpg 1
+C:/Users/lab/Desktop/val_data/1961.jpg 1
+C:/Users/lab/Desktop/val_data/1962.jpg 1
+C:/Users/lab/Desktop/val_data/1963.jpg 1
+C:/Users/lab/Desktop/val_data/1964.jpg 1
+C:/Users/lab/Desktop/val_data/1965.jpg 1
+C:/Users/lab/Desktop/val_data/1966.jpg 1
+C:/Users/lab/Desktop/val_data/1967.jpg 1
+C:/Users/lab/Desktop/val_data/1968.jpg 1
+C:/Users/lab/Desktop/val_data/1969.jpg 1
+C:/Users/lab/Desktop/val_data/1970.jpg 1
+C:/Users/lab/Desktop/val_data/1971.jpg 1
+C:/Users/lab/Desktop/val_data/1972.jpg 1
+C:/Users/lab/Desktop/val_data/1973.jpg 1
+C:/Users/lab/Desktop/val_data/1974.jpg 1
+C:/Users/lab/Desktop/val_data/1975.jpg 1
+C:/Users/lab/Desktop/val_data/1976.jpg 1
+C:/Users/lab/Desktop/val_data/1977.jpg 1
+C:/Users/lab/Desktop/val_data/1978.jpg 1
+C:/Users/lab/Desktop/val_data/1979.jpg 1
+C:/Users/lab/Desktop/val_data/1980.jpg 1
+C:/Users/lab/Desktop/val_data/1981.jpg 1
+C:/Users/lab/Desktop/val_data/1982.jpg 1
+C:/Users/lab/Desktop/val_data/1983.jpg 1
+C:/Users/lab/Desktop/val_data/1984.jpg 1
+C:/Users/lab/Desktop/val_data/1985.jpg 1
+C:/Users/lab/Desktop/val_data/1986.jpg 1
+C:/Users/lab/Desktop/val_data/1987.jpg 1
+C:/Users/lab/Desktop/val_data/1988.jpg 1
+C:/Users/lab/Desktop/val_data/1989.jpg 1
+C:/Users/lab/Desktop/val_data/1990.jpg 1
+C:/Users/lab/Desktop/val_data/1991.jpg 1
+C:/Users/lab/Desktop/val_data/1992.jpg 1
+C:/Users/lab/Desktop/val_data/1993.jpg 1
+C:/Users/lab/Desktop/val_data/1994.jpg 1
+C:/Users/lab/Desktop/val_data/1995.jpg 1
+C:/Users/lab/Desktop/val_data/1996.jpg 1
+C:/Users/lab/Desktop/val_data/1997.jpg 1
+C:/Users/lab/Desktop/val_data/1998.jpg 1
+C:/Users/lab/Desktop/val_data/1999.jpg 1
+C:/Users/lab/Desktop/val_data/2000.jpg 1
+C:/Users/lab/Desktop/val_data/2001.jpg 1
+C:/Users/lab/Desktop/val_data/2002.jpg 1
+C:/Users/lab/Desktop/val_data/2003.jpg 1
+C:/Users/lab/Desktop/val_data/2004.jpg 1
+C:/Users/lab/Desktop/val_data/2005.jpg 1
+C:/Users/lab/Desktop/val_data/2006.jpg 1
+C:/Users/lab/Desktop/val_data/2007.jpg 1
+C:/Users/lab/Desktop/val_data/2008.jpg 1
+C:/Users/lab/Desktop/val_data/2009.jpg 1
+C:/Users/lab/Desktop/val_data/2010.jpg 1
+C:/Users/lab/Desktop/val_data/2011.jpg 1
+C:/Users/lab/Desktop/val_data/2012.jpg 1
+C:/Users/lab/Desktop/val_data/2013.jpg 1
+C:/Users/lab/Desktop/val_data/2014.jpg 1
+C:/Users/lab/Desktop/val_data/2015.jpg 1
+C:/Users/lab/Desktop/val_data/2016.jpg 1
+C:/Users/lab/Desktop/val_data/2017.jpg 1
+C:/Users/lab/Desktop/val_data/2018.jpg 1
+C:/Users/lab/Desktop/val_data/2019.jpg 1
+C:/Users/lab/Desktop/val_data/2020.jpg 1
+C:/Users/lab/Desktop/val_data/2021.jpg 1
+C:/Users/lab/Desktop/val_data/2022.jpg 1
+C:/Users/lab/Desktop/val_data/2023.jpg 1
+C:/Users/lab/Desktop/val_data/2024.jpg 1
+C:/Users/lab/Desktop/val_data/2025.jpg 1
+C:/Users/lab/Desktop/val_data/2026.jpg 1
+C:/Users/lab/Desktop/val_data/2027.jpg 1
+C:/Users/lab/Desktop/val_data/2028.jpg 1
+C:/Users/lab/Desktop/val_data/2029.jpg 1
+C:/Users/lab/Desktop/val_data/2030.jpg 1
+C:/Users/lab/Desktop/val_data/1016 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1017 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1018 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1019 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1020 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1021 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1022 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1023 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1024 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1025 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1026 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1027 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1028 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1029 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1030 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1031 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1032 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1033 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1034 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1035 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1036 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1037 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1038 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1039 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1040 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1041 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1042 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1043 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1044 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1045 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1046 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1047 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1048 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1049 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1050 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1051 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1052 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1053 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1054 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1055 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1056 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1057 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1058 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1059 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1060 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1061 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1062 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1063 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1064 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1065 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1066 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1067 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1068 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1069 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1070 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1071 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1072 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1073 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1074 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1075 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1076 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1077 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1078 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1079 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1080 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1081 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1082 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1083 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1084 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1085 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1086 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1087 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1088 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1089 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1090 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1091 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1092 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1093 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1094 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1095 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1096 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1097 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1098 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1099 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1100 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1101 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1102 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1103 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1104 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1105 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1106 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1107 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1108 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1109 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1110 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1111 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1112 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1113 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1114 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1115 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1116 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1117 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1118 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1119 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1120 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1121 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1122 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1123 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1124 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1125 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1126 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1127 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1128 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1129 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1130 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1131 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1132 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1133 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1134 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1135 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1136 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1137 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1138 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1139 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1140 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1141 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1142 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1143 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1144 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1145 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1146 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1147 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1148 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1149 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1150 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1151 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1152 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1153 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1154 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1155 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1156 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1157 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1158 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1159 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1160 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1161 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1162 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1163 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1164 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1165 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1166 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1167 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1168 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1169 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1170 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1171 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1172 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1173 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1174 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1175 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1176 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1177 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1178 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1179 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1180 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1181 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1182 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1183 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1184 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1185 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1186 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1187 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1188 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1189 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1190 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1191 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1192 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1193 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1194 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1195 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1196 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1197 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1198 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1199 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1200 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1201 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1202 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1203 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1204 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1205 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1206 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1207 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1208 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1209 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1210 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1211 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1212 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1213 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1214 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1215 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1216 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1217 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1218 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1219 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1220 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1221 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1222 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1223 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1224 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1225 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1226 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1227 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1228 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1229 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1230 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1231 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1232 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1233 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1234 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1235 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1236 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1237 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1238 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1239 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1240 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1241 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1242 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1243 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1244 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1245 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1246 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1247 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1248 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1249 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1250 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1251 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1252 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1253 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1254 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1255 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1256 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1257 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1258 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1259 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1260 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1261 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1262 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1263 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1264 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1265 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1266 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1267 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1268 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1269 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1270 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1271 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1272 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1273 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1274 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1275 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1276 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1277 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1278 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1279 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1280 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1281 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1282 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1283 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1284 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1285 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1286 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1287 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1288 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1289 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1290 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1291 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1292 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1293 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1294 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1295 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1296 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1297 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1298 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1299 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1300 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1301 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1302 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1303 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1304 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1305 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1306 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1307 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1308 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1309 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1310 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1311 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1312 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1313 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1314 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1315 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1316 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1317 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1318 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1319 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1320 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1321 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1322 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1323 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1324 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1325 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1326 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1327 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1328 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1329 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1330 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1331 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1332 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1333 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1334 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1335 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1336 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1337 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1338 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1339 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1340 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1341 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1342 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1343 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1344 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1345 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1346 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1347 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1348 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1349 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1350 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1351 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1352 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1353 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1354 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1355 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1356 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1357 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1358 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1359 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1360 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1361 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1362 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1363 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1364 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1365 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1366 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1367 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1368 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1369 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1370 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1371 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1372 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1373 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1374 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1375 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1376 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1377 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1378 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1379 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1380 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1381 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1382 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1383 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1384 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1385 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1386 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1387 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1388 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1389 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1390 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1391 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1392 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1393 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1394 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1395 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1396 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1397 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1398 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1399 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1400 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1401 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1402 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1403 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1404 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1405 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1406 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1407 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1408 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1409 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1410 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1411 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1412 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1413 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1414 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1415 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1416 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1417 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1418 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1419 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1420 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1421 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1422 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1423 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1424 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1425 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1426 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1427 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1428 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1429 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1430 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1431 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1432 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1433 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1434 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1435 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1436 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1437 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1438 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1439 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1440 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1441 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1442 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1443 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1444 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1445 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1446 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1447 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1448 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1449 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1450 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1451 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1452 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1453 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1454 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1455 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1456 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1457 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1458 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1459 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1460 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1461 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1462 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1463 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1464 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1465 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1466 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1467 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1468 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1469 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1470 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1471 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1472 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1473 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1474 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1475 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1476 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1477 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1478 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1479 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1480 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1481 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1482 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1483 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1484 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1485 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1486 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1487 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1488 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1489 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1490 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1491 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1492 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1493 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1494 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1495 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1496 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1497 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1498 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1499 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1500 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1501 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1502 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1503 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1504 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1505 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1506 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1507 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1508 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1509 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1510 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1511 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1512 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1513 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1514 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1515 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1516 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1517 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1518 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1519 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1520 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1521 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1522 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1523 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1524 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1525 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1526 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1527 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1528 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1529 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1530 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1531 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1532 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1533 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1534 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1535 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1536 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1537 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1538 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1539 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1540 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1541 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1542 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1543 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1544 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1545 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1546 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1547 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1548 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1549 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1550 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1551 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1552 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1553 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1554 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1555 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1556 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1557 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1558 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1559 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1560 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1561 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1562 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1563 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1564 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1565 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1566 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1567 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1568 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1569 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1570 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1571 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1572 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1573 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1574 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1575 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1576 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1577 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1578 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1579 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1580 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1581 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1582 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1583 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1584 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1585 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1586 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1587 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1588 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1589 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1590 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1591 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1592 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1593 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1594 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1595 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1596 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1597 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1598 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1599 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1600 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1601 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1602 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1603 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1604 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1605 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1606 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1607 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1608 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1609 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1610 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1611 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1612 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1613 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1614 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1615 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1616 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1617 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1618 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1619 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1620 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1621 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1622 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1623 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1624 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1625 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1626 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1627 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1628 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1629 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1630 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1631 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1632 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1633 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1634 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1635 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1636 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1637 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1638 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1639 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1640 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1641 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1642 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1643 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1644 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1645 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1646 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1647 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1648 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1649 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1650 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1651 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1652 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1653 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1654 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1655 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1656 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1657 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1658 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1659 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1660 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1661 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1662 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1663 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1664 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1665 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1666 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1667 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1668 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1669 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1670 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1671 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1672 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1673 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1674 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1675 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1676 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1677 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1678 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1679 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1680 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1681 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1682 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1683 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1684 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1685 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1686 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1687 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1688 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1689 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1690 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1691 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1692 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1693 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1694 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1695 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1696 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1697 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1698 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1699 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1700 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1701 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1702 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1703 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1704 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1705 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1706 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1707 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1708 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1709 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1710 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1711 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1712 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1713 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1714 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1715 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1716 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1717 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1718 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1719 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1720 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1721 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1722 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1723 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1724 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1725 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1726 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1727 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1728 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1729 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1730 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1731 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1732 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1733 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1734 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1735 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1736 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1737 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1738 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1739 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1740 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1741 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1742 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1743 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1744 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1745 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1746 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1747 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1748 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1749 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1750 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1751 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1752 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1753 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1754 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1755 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1756 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1757 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1758 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1759 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1760 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1761 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1762 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1763 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1764 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1765 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1766 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1767 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1768 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1769 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1770 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1771 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1772 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1773 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1774 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1775 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1776 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1777 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1778 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1779 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1780 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1781 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1782 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1783 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1784 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1785 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1786 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1787 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1788 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1789 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1790 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1791 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1792 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1793 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1794 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1795 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1796 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1797 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1798 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1799 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1800 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1801 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1802 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1803 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1804 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1805 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1806 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1807 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1808 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1809 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1810 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1811 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1812 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1813 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1814 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1815 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1816 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1817 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1818 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1819 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1820 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1821 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1822 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1823 (3).JPG 2
+C:/Users/lab/Desktop/val_data/1016 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1017 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1018 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1019 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1020 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1021 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1022 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1023 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1024 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1025 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1026 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1027 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1028 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1029 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1030 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1031 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1032 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1033 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1034 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1035 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1036 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1037 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1038 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1039 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1040 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1041 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1042 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1043 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1044 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1045 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1046 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1047 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1048 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1049 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1050 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1051 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1052 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1053 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1054 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1055 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1056 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1057 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1058 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1059 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1060 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1061 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1062 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1063 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1064 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1065 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1066 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1067 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1068 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1069 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1070 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1071 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1072 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1073 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1074 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1075 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1076 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1077 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1078 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1079 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1080 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1081 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1082 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1083 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1084 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1085 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1086 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1087 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1088 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1089 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1090 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1091 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1092 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1093 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1094 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1095 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1096 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1097 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1098 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1099 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1100 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1101 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1102 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1103 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1104 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1105 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1106 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1107 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1108 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1109 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1110 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1111 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1112 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1113 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1114 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1115 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1116 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1117 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1118 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1119 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1120 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1121 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1122 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1123 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1124 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1125 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1126 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1127 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1128 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1129 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1130 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1131 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1132 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1133 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1134 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1135 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1136 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1137 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1138 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1139 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1140 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1141 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1142 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1143 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1144 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1145 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1146 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1147 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1148 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1149 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1150 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1151 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1152 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1153 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1154 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1155 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1156 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1157 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1158 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1159 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1160 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1161 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1162 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1163 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1164 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1165 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1166 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1167 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1168 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1169 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1170 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1171 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1172 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1173 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1174 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1175 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1176 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1177 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1178 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1179 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1180 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1181 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1182 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1183 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1184 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1185 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1186 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1187 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1188 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1189 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1190 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1191 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1192 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1193 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1194 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1195 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1196 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1197 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1198 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1199 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1200 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1201 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1202 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1203 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1204 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1205 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1206 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1207 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1208 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1209 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1210 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1211 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1212 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1213 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1214 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1215 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1216 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1217 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1218 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1219 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1220 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1221 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1222 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1223 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1224 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1225 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1226 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1227 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1228 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1229 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1230 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1231 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1232 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1233 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1234 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1235 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1236 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1237 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1238 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1239 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1240 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1241 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1242 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1243 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1244 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1245 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1246 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1247 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1248 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1249 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1250 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1251 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1252 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1253 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1254 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1255 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1256 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1257 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1258 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1259 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1260 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1261 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1262 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1263 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1264 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1265 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1266 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1267 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1268 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1269 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1270 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1271 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1272 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1273 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1274 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1275 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1276 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1277 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1278 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1279 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1280 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1281 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1282 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1283 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1284 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1285 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1286 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1287 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1288 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1289 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1290 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1291 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1292 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1293 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1294 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1295 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1296 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1297 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1298 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1299 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1300 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1301 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1302 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1303 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1304 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1305 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1306 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1307 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1308 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1309 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1310 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1311 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1312 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1313 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1314 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1315 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1316 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1317 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1318 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1319 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1320 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1321 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1322 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1323 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1324 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1325 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1326 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1327 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1328 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1329 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1330 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1331 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1332 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1333 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1334 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1335 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1336 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1337 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1338 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1339 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1340 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1341 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1342 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1343 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1344 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1345 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1346 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1347 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1348 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1349 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1350 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1351 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1352 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1353 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1354 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1355 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1356 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1357 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1358 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1359 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1360 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1361 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1362 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1363 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1364 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1365 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1366 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1367 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1368 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1369 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1370 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1371 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1372 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1373 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1374 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1375 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1376 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1377 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1378 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1379 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1380 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1381 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1382 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1383 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1384 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1385 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1386 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1387 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1388 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1389 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1390 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1391 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1392 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1393 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1394 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1395 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1396 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1397 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1398 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1399 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1400 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1401 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1402 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1403 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1404 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1405 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1406 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1407 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1408 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1409 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1410 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1411 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1412 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1413 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1414 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1415 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1416 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1417 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1418 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1419 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1420 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1421 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1422 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1423 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1424 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1425 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1426 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1427 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1428 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1429 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1430 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1431 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1432 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1433 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1434 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1435 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1436 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1437 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1438 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1439 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1440 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1441 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1442 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1443 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1444 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1445 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1446 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1447 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1448 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1449 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1450 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1451 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1452 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1453 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1454 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1455 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1456 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1457 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1458 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1459 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1460 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1461 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1462 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1463 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1464 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1465 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1466 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1467 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1468 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1469 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1470 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1471 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1472 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1473 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1474 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1475 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1476 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1477 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1478 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1479 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1480 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1481 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1482 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1483 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1484 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1485 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1486 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1487 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1488 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1489 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1490 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1491 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1492 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1493 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1494 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1495 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1496 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1497 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1498 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1499 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1500 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1501 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1502 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1503 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1504 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1505 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1506 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1507 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1508 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1509 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1510 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1511 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1512 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1513 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1514 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1515 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1516 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1517 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1518 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1519 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1520 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1521 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1522 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1523 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1524 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1525 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1526 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1527 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1528 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1529 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1530 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1531 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1532 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1533 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1534 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1535 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1536 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1537 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1538 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1539 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1540 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1541 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1542 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1543 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1544 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1545 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1546 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1547 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1548 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1549 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1550 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1551 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1552 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1553 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1554 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1555 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1556 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1557 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1558 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1559 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1560 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1561 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1562 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1563 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1564 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1565 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1566 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1567 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1568 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1569 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1570 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1571 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1572 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1573 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1574 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1575 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1576 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1577 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1578 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1579 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1580 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1581 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1582 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1583 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1584 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1585 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1586 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1587 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1588 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1589 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1590 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1591 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1592 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1593 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1594 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1595 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1596 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1597 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1598 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1599 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1600 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1601 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1602 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1603 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1604 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1605 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1606 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1607 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1608 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1609 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1610 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1611 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1612 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1613 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1614 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1615 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1616 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1617 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1618 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1619 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1620 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1621 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1622 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1623 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1624 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1625 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1626 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1627 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1628 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1629 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1630 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1631 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1632 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1633 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1634 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1635 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1636 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1637 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1638 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1639 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1640 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1641 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1642 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1643 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1644 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1645 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1646 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1647 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1648 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1649 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1650 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1651 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1652 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1653 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1654 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1655 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1656 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1657 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1658 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1659 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1660 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1661 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1662 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1663 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1664 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1665 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1666 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1667 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1668 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1669 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1670 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1671 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1672 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1673 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1674 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1675 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1676 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1677 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1678 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1679 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1680 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1681 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1682 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1683 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1684 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1685 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1686 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1687 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1688 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1689 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1690 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1691 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1692 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1693 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1694 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1695 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1696 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1697 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1698 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1699 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1700 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1701 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1702 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1703 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1704 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1705 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1706 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1707 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1708 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1709 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1710 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1711 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1712 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1713 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1714 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1715 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1716 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1717 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1718 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1719 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1720 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1721 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1722 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1723 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1724 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1725 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1726 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1727 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1728 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1729 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1730 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1731 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1732 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1733 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1734 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1735 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1736 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1737 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1738 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1739 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1740 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1741 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1742 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1743 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1744 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1745 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1746 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1747 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1748 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1749 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1750 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1751 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1752 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1753 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1754 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1755 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1756 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1757 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1758 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1759 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1760 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1761 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1762 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1763 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1764 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1765 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1766 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1767 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1768 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1769 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1770 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1771 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1772 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1773 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1774 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1775 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1776 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1777 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1778 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1779 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1780 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1781 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1782 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1783 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1784 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1785 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1786 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1787 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1788 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1789 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1790 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1791 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1792 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1793 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1794 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1795 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1796 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1797 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1798 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1799 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1800 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1801 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1802 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1803 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1804 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1805 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1806 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1807 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1808 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1809 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1810 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1811 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1812 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1813 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1814 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1815 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1816 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1817 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1818 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1819 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1820 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1821 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1822 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1823 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1824 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1825 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1826 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1827 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1828 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1829 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1830 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1831 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1832 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1833 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1834 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1835 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1836 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1837 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1838 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1839 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1840 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1841 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1842 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1843 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1844 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1845 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1846 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1847 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1848 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1849 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1850 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1851 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1852 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1853 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1854 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1855 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1856 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1857 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1858 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1859 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1860 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1861 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1862 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1863 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1864 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1865 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1866 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1867 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1868 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1869 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1870 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1871 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1872 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1873 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1874 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1875 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1876 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1877 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1878 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1879 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1880 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1881 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1882 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1883 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1884 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1885 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1886 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1887 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1888 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1889 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1890 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1891 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1892 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1893 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1894 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1895 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1896 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1897 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1898 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1899 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1900 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1901 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1902 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1903 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1904 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1905 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1906 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1907 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1908 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1909 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1910 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1911 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1912 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1913 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1914 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1915 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1916 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1917 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1918 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1919 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1920 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1921 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1922 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1923 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1924 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1925 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1926 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1927 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1928 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1929 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1930 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1931 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1932 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1933 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1934 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1935 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1936 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1937 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1938 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1939 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1940 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1941 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1942 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1943 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1944 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1945 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1946 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1947 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1948 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1949 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1950 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1951 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1952 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1953 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1954 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1955 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1956 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1957 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1958 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1959 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1960 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1961 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1962 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1963 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1964 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1965 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1966 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1967 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1968 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1969 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1970 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1971 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1972 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1973 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1974 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1975 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1976 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1977 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1978 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1979 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1980 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1981 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1982 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1983 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1984 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1985 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1986 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1987 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1988 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1989 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1990 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1991 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1992 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1993 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1994 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1995 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1996 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1997 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1998 (2).JPG 3
+C:/Users/lab/Desktop/val_data/1999 (2).JPG 3
+C:/Users/lab/Desktop/val_data/2000 (2).JPG 3
